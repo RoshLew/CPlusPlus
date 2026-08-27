@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell *)",
+      "Bash(g++ TicTacToeGraphical.cpp -o TicTacToeGraphical -std=c++17 -Wall -Wextra -lsfml-graphics -lsfml-window -lsfml-system)"
+    ]
+  }
+}
